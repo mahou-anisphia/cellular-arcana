@@ -1,4 +1,4 @@
-_From the product series "Magicodelogy"_
+_From the discovery & learning series "Magicodelogy"_
 
 # Cellular Arcana
 
