@@ -26,7 +26,7 @@ To use this tool, you typically need the evaluation board connected to your PC v
 2. **Compile (Optional):**
    ```bash
    gcc bg95_monitor.c -o bg95_monitor
-````
+   ```
 
 3.  **Run:**
     Execute the program to start monitoring the cellular connection.
